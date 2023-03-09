@@ -11,7 +11,7 @@ collections:
    name: 关于我们
    output: true
  falv:
-   name: 法律法规
+   name: 房教中国
    output: true
  fuwu:
    name: 服务领域
